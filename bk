@@ -1,0 +1,30 @@
+# Project 2 - Payroll Generator
+
+### Due - Monday, February 10, 11:59pm
+
+Assignment Link:
+[]()
+
+
+
+
+
+This is a working solution that needs to be cleaned up.
+
+Most of the solution is heavily borrowed from Albert Lionelle's solution for online CS 5004.
+
+Notes below:
+
+Builder
+- implement the two methods specified
+
+Employee
+- implement derived classes Hourly and Salary
+- consider an abstract class to implement common functionality for Hourly and Salary
+
+TimeCard
+- need to implement derived class
+
+PayStub
+- need to implement derived class
+
